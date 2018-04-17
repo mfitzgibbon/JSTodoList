@@ -86,6 +86,12 @@
     Use and arrow or anonymous function
 */
 
+class ToDoList{
+    function ToDoList{
+        
+    }
+}
+
 function generateTaskHtml(task, index) {
     return `
       <li class="list-group-item checkbox">
